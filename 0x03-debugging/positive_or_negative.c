@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - Entry point
+ * positive_or_negative - do the job
  *@i: number of your choice.
  * Return: Always 0 (Success)
  */
