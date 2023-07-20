@@ -8,7 +8,7 @@
  * Description : Cette fonction prend un nombre variable d'arguments
  * entiers et retourne leur somme.
  *
- * Retour: La somme des paramètres entiers.
+ * Return: La somme des paramètres entiers.
  */
 int sum_them_all(const unsigned int n, ...)
 {
